@@ -2,7 +2,7 @@
   {
     "cnae": "3250706",
     "descricao": "Serviços de prótese dentária",
-    "anexo": "V",
+    "anexo": "W",
     "fator_r": true
   },
   {
@@ -2513,4 +2513,5 @@
     "anexo": "V",
     "fator_r": true
   }
+
 ]
